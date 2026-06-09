@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 AI Engineer specializing in Agentic AI, Graph-RAG, and cloud-native AI systems.
 
-## About Me
+## About Me   ![](https://komarev.com/ghpvc/?username=sailu1997&color=brightgreen)
 
 - AI Engineer at NUS IT
 - Building Graph-RAG systems serving 30,000+ monthly users
@@ -35,4 +35,4 @@ Python • FastAPI • JS • Azure • LangGraph • LangChain
 - LinkedIn: https://linkedin.com/in/gsainiharikanaidu
 - Email: niharikanaidu.gandham@gmail.com
 
-![](https://komarev.com/ghpvc/?username=sailu1997&color=brightgreen)
+
