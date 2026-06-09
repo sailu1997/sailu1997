@@ -40,10 +40,6 @@ Python • FastAPI • Azure OpenAI • Azure AI Foundry • LangGraph • LangC
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sailu1997)](https://github.com/sailu1997/github-readme-stats)
 
 
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailu1997&layout=compact&hide_border=true" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sailu1997&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=sailu1997&color=brightgreen)
