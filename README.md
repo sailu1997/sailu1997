@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Niharika 👋
 
 <!--
 **sailu1997/sailu1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi, I'm Niharika 👋
 
 AI Engineer specializing in Agentic AI, Graph-RAG, and cloud-native AI systems.
 
