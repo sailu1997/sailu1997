@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Niharika 👋
+
+AI Engineer specializing in Agentic AI, Graph-RAG, and cloud-native AI systems.
+
+## About Me
+
+- AI Engineer at NUS IT
+- Building Graph-RAG systems serving 30,000+ monthly users
+- Experience with Azure OpenAI, Azure AI Foundry, LangGraph, FastAPI, Cosmos DB, and Azure AI Search
+- Former AI Research Engineer at Askiyo
+- Former Software Engineer at Qualcomm
+- M.Comp. Computer Science, NUS
+
+## Tech Stack
+
+Python • FastAPI • Azure OpenAI • Azure AI Foundry • LangGraph • LangChain • Neo4j • Cosmos DB • Docker
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/gsainiharikanaidu
+- Email: niharikanaidu.gandham@gmail.com
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sailu1997&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sailu1997&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=sailu1997&color=brightgreen)
