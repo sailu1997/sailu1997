@@ -35,11 +35,4 @@ Python • FastAPI • Azure OpenAI • Azure AI Foundry • LangGraph • LangC
 - LinkedIn: https://linkedin.com/in/gsainiharikanaidu
 - Email: niharikanaidu.gandham@gmail.com
 
-## GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sailu1997)](https://github.com/sailu1997/github-readme-stats)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sailu1997&show_icons=true&theme=radical)
-
 ![](https://komarev.com/ghpvc/?username=sailu1997&color=brightgreen)
