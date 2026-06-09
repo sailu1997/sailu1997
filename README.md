@@ -37,9 +37,8 @@ Python • FastAPI • Azure OpenAI • Azure AI Foundry • LangGraph • LangC
 
 ## GitHub Stats
 
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sailu1997&show_icons=true)
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sailu1997&show_icons=true)
+
 
 ## Top Languages
 
