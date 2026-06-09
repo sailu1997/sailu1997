@@ -28,7 +28,7 @@ AI Engineer specializing in Agentic AI, Graph-RAG, and cloud-native AI systems.
 
 ## Tech Stack
 
-Python • FastAPI • Azure OpenAI • Azure AI Foundry • LangGraph • LangChain • Neo4j • Cosmos DB • Docker
+Python • FastAPI • JS • Azure • LangGraph • LangChain 
 
 ## Connect
 
